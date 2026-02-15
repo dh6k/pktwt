@@ -1,7 +1,7 @@
 enable-magisk-update = true # set this to false if you do not want to receive updates for the module in magisk app
 parallel-jobs = 1
 patches-source = "crimera/piko"
-cli-source = "ReVanced/revanced-cli"
+cli-source = "MorpheApp/morphe-cli"
 
 [Twitter]
 uptodown-dlurl = "https://twitter.en.uptodown.com/android"
