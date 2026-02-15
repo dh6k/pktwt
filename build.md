@@ -5,6 +5,6 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
-CLI: ReVanced/revanced-cli-5.0.1-all.jar  
-Patches: crimera/patches-2.0.0-dev.23.rvp  
-[Changelog](https://github.com/crimera/piko/releases/tag/v2.0.0-dev.23)  
+CLI: MorpheApp/morphe-cli-1.3.0-all.jar  
+Patches: crimera/patches-3.0.0-dev.1.mpp  
+[Changelog](https://github.com/crimera/piko/releases/tag/v3.0.0-dev.1)  
